@@ -27,3 +27,4 @@ scipy==1.4.1
 six==1.14.0
 Werkzeug==1.0.1
 yellowbrick==1.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
